@@ -3,10 +3,10 @@
 }
 
 .container{
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 .gap{
-    margin-bottom: 50px;
+    margin-bottom: 25px;
 }
 
 .card-footer{
@@ -20,3 +20,15 @@
     background-color: aqua;
     border-radius: 20px;
 }
+
+.orange-text a:link{
+    color: orange;
+    text-decoration: none; 
+}
+
+.orange-text a:visited {
+    color: orange;
+    text-decoration: none; 
+}
+
+
