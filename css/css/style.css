@@ -5,8 +5,18 @@
 .container{
     margin-bottom: 100px;
 }
+.gap{
+    margin-bottom: 50px;
+}
 
 .card-footer{
     background-color: white;
     border-top: none;
+}
+
+.border{
+    height: auto;
+    width: auto;
+    background-color: aqua;
+    border-radius: 20px;
 }
