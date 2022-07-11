@@ -1,0 +1,12 @@
+.gray-text{
+    color: gray;
+}
+
+.container{
+    margin-bottom: 100px;
+}
+
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
